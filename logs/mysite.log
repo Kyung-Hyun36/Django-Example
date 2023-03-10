@@ -1,0 +1,9 @@
+[10/Mar/2023 16:30:56] DEBUG [polls.views:27] vote().question_id: 6
+[10/Mar/2023 16:30:58] DEBUG [polls.views:27] vote().question_id: 6
+[10/Mar/2023 16:32:04] DEBUG [polls.views:27] vote().question_id: 5
+[10/Mar/2023 16:32:06] DEBUG [polls.views:27] vote().question_id: 5
+[10/Mar/2023 16:32:45] DEBUG [polls.views:27] vote().question_id: 5
+[10/Mar/2023 16:32:52] DEBUG [polls.views:27] vote().question_id: 5
+[10/Mar/2023 16:32:55] DEBUG [polls.views:27] vote().question_id: 5
+[10/Mar/2023 16:33:14] DEBUG [polls.views:27] vote().question_id: 5
+[10/Mar/2023 16:33:21] DEBUG [polls.views:27] vote().question_id: 7
